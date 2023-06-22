@@ -14,5 +14,8 @@
             "email": "henry@bauhu.com"
         }
     ],
+
+    "license": "MIT",
+
     "require": {}
 }
